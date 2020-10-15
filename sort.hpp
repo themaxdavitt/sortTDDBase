@@ -10,6 +10,6 @@
 #include <vector>
 
 // sort of int vector
-void sort(const std::vector<int>& v);
+void sort(std::vector<int>& v);
 
 #endif
